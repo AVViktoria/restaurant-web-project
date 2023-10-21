@@ -48,7 +48,7 @@
   margin-top: 0.5rem;
 }
 .app__footer-links_icons svg {
-  color: var(--color-white);
+  color: #f5efdb;
   margin: 0.5rem;
   font-size: 24px;
   cursor: pointer;
